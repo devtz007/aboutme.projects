@@ -1,21 +1,13 @@
-# Mohaiminul Tazin (devtz007) curriculum vitae projects
+# Mohaiminul Tazin (devtz007) demo projects
 
 ## React Projects
 
-### 1. [Project Title](link_here)
+### 1. [tutor_finder_2_vite_react](http://84.247.181.107:1111/)
 - **Technologies**: Vite, SASS
-- **Description**: A brief description of the project highlighting its purpose, features, or what makes it stand out. 
-- **Role**: (e.g., Lead Developer, Front-End Developer)
-- **Link**: [Project Link](link_here)
-
----
-
-### 2. [Another Project Title](link_here)
-- **Technologies**: (mention the tech stack)
-- **Description**: (brief project description)
-- **Role**: (your role in the project)
-- **Link**: [Project Link](link_here)
-
+- **Description**: A dynamic and user-friendly platform designed to connect students with qualified tutors. The application provides an intuitive interface for users to search, filter, and select tutors based on various criteria, ensuring a personalized learning experience. It also allows tutors to create detailed profiles, showcase their expertise, and manage their availability. The project emphasizes responsive design and fast loading times, delivering an optimal user experience across all devices. 
+- **Role**: (Front-End Developer)
+- **Link**: [Project Link](http://84.247.181.107:1111/)
+- 
 ---
 
 
