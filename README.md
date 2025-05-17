@@ -20,6 +20,5 @@
 - **Responsive status**: Non responsive
 - **Links**:-
 - https://tutor-finder-2-react-vite.vercel.app
-- https://tutor-finder-2-react-vite.vercel.app/login
-- https://tutor-finder-2-react-vite.vercel.app/registration
+
 
