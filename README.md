@@ -1,4 +1,4 @@
-# Mohaiminul Tazin (devtz007) demo projects
+# Mohaiminul Tazim (devtz007) demo projects
 
 ## React Projects
 
