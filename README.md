@@ -2,13 +2,15 @@
 
 ## React Projects
 
-### 1. [tutor_finder_2_vite_react](http://84.247.181.107:1111/)
-- **Technologies**: Vite, React, SASS, TypeScript
-- **Description**: A dynamic and user-friendly platform designed to connect students with qualified tutors. The application provides an intuitive interface for users to search, filter, and select tutors based on various criteria, ensuring a personalized learning experience. It also allows tutors to create detailed profiles, showcase their expertise, and manage their availability. The project emphasizes responsive design and fast loading times, delivering an optimal user experience across all devices. 
+### 1. [management_solution_1_next](https://management-solution-1-next.vercel.app)
+- **Technologies**: React, Next.js, TypeScript, SCSS.
+- **Description**: A modern management solution platform designed to streamline business operations with features like project tracking, team collaboration, and performance 
+    analytics. Built with Next.js for speed and scalability. 
 - **Role**: (Front-End Developer)
+- **Responsive status**: 870px to 1920px
 - **Links**:-
-- http://84.247.181.107:1111/   (Responsive)
-- http://84.247.181.107:1111/dashboard/student (Non responsive)
+- https://management-solution-1-next.vercel.app
+- https://management-solution-1-next.vercel.app/dashboard/home 
 
 ---
 
