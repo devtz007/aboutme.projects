@@ -8,8 +8,8 @@
 - **Role**: (Front-End Developer)
 - **Responsive status**: 870px to 1920px
 - **Links**:-
+- https://management-solution-1-next.vercel.app/dashboard/home
 - https://management-solution-1-next.vercel.app
-- https://management-solution-1-next.vercel.app/dashboard/home 
 
 ---
 
