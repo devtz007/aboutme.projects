@@ -1,7 +1,6 @@
 # Mohaiminul Tazim – Demo Projects and Proof of Experience and Work.
 
 ## Web Development
-
 ## React Projects
 
 ### 1. [management_solution_1_next](https://management-solution-1-next.vercel.app)
