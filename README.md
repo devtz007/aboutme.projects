@@ -1,4 +1,6 @@
-# Tazim Mohaiminul (devtz007) demo projects
+# Mohaiminul Tazim – Demo Projects and Proof of Experience and Work.
+
+## Web Development
 
 ## React Projects
 
@@ -11,7 +13,6 @@
 - https://management-solution-1-next.vercel.app/dashboard/home
 - https://management-solution-1-next.vercel.app
 
----
 
 ### 2. [tutor_finder_2_react_vite](https://tutor-finder-2-react-vite.vercel.app)
 - **Technologies**: React, TypeScript, SCSS, Vite.
@@ -21,4 +22,14 @@
 - **Links**:-
 - https://tutor-finder-2-react-vite.vercel.app
 
+---
+
+## Cyber Security
+
+### Capture the Flag (CTF)
+- **PicoCTF** – Participated in various challenges to strengthen practical skills in reverse engineering, web exploitation, and cryptography.
+
+### Learning Platforms
+- **TryHackMe** – Ongoing learning in penetration testing, network security, and ethical hacking.  
+  Profile: https://tryhackme.com/p/devtz007
 
